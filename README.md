@@ -1,3 +1,12 @@
+https://evening-bayou-67240.herokuapp.com/api/
+
+follow the endpoints sequentially: 
+1. register
+2. generate-otp
+3. verify-otp
+4. login
+5. logout 
+
 ## Building Restful API with Django & DRF
 
 ## The Authentication System
@@ -36,3 +45,4 @@ We are to build a standalone full authentication API that can be used or injecte
 ### Desired Authentication Flow
 
 ![Authentication Workflow](./assets/auth.png)
+
