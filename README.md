@@ -1,4 +1,5 @@
-https://evening-bayou-67240.herokuapp.com/api/
+https://evening-bayou-67240.herokuapp.com/api/register/
+https://evening-bayou-67240.herokuapp.com/redoc/
 
 follow the endpoints sequentially: 
 1. register

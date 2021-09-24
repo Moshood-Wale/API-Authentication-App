@@ -53,7 +53,7 @@ class VerifyOTPView(generics.CreateAPIView):
     serializer_class=VerifyOTPSerializer
     
     def get(self,request):
-        return Response({'message':"please enter the cerification code hat was sent to your mail"})
+        return Response({'message':"please enter the cerification code that was sent to your mail"})
     
     def post(self,request):
         serializer = VerifyOTPSerializer(data=request.data)
